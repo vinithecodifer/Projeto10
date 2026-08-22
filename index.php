@@ -9,7 +9,7 @@
     <header>
         <nav>
             <a href="">Deivid</a>
-            <a href="Curriculo_ViniciusPaulino.pdf">Vinicius</a>
+            <a href="curriculoVinicius.php">Vinicius</a>
             <a href="Curriculo_Vitor.php">Vitor</a>
         </nav>
     </header>
